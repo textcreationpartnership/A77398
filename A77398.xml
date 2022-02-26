@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief and plain discussion of that question which of late hath troubled many tender consciences; namely, whether it be lawfull to receive the sacrament of the Lords Supper in those congregations where there is a mixture of some ignorant or prophane persons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77398</idno>
+            <idno type="STC">Wing B4531</idno>
+            <idno type="STC">Thomason E678_27</idno>
+            <idno type="STC">ESTC R206806</idno>
+            <idno type="EEBO-CITATION">99865912</idno>
+            <idno type="PROQUEST">99865912</idno>
+            <idno type="VID">118167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118167)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E678[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief and plain discussion of that question which of late hath troubled many tender consciences; namely, whether it be lawfull to receive the sacrament of the Lords Supper in those congregations where there is a mixture of some ignorant or prophane persons.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "October. 30th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Sacraments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118167:1" rendition="simple:additions"/>
+            <p>A brief and plain DISCVSSION Of that Queſtion which of late hath troubled many tender <hi>CONSCIENCES;</hi>
+            </p>
+            <p>NAMELY, Whether it be lawfull to receive the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper in thoſe Congre<g ref="char:EOLhyphen"/>gations where there is a mixture of ſome Igno<g ref="char:EOLhyphen"/>rant or Prophane Perſons.</p>
+            <q>
+               <bibl>Tit. 1.15.</bibl>
+               <p>To the pure all things are pure.</p>
+            </q>
+            <q>
+               <bibl>1 Cor, 11.28.</bibl>
+               <p>Let a man therefore examine himſelf, and ſo let him eat of this Bread, and drink of this Cup.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the Old-Baily. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118167:2"/>
+            <pb facs="tcp:118167:2"/>
+            <head>Whether it bee lawfull to receive the Sacrament in thoſe Congregations where there is a mixture of ſome that are Ignorant or Scandalous.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Sacrament of the Lords Supper is a moſt ſa<g ref="char:EOLhyphen"/>cred Ordinance, and ought to be uſed in a ſacred manner; that it ought not to be polluted by pro<g ref="char:EOLhyphen"/>phane perſons, and ſuch as come altogether unwor<g ref="char:EOLhyphen"/>thily and unpreparedly, all will eaſily grant; That ſuch as theſe, ought to be kept back and not to be admitted, yea that every one in his place and order, according to that power which God hath given him, ought to uſe his beſt endeavour to keep ſuch back, will not be denied by any that deſire this holy ordinance may be preſerved in its purity: But if for want of right Diſcipline (which is yet wanting in moſt Congregations of the Kingdome) or want of right Excerciſe of this Diſcipline, ſome Un<g ref="char:EOLhyphen"/>vvorthy ones do thruſt in and mix themſelves with others in the uſe of this Ordinance, whether it be lawfull for a worthy receiver to joyn himſelf with them is the queſtion. And this is ſuch a thing as hath much troubled the minds of many piouſly affected, who though they excedingly deſire to partake of this Ordinance, yet dare not do it, where there is ſuch a mixture.</p>
+            <p>
+               <hi>That it is not unlawfull to receive the ſacrament in ſuch Congregati<g ref="char:EOLhyphen"/>ons, where there is a mixture of ſome that are Ignorant or Scandalous may appear by theſe reaſons following.</hi>
+            </p>
+            <p>
+               <hi>Argu.</hi> 1. Whatſoever Duty we are called unto by a Clear com<g ref="char:EOLhyphen"/>mand from the word, we ought not to forbear the performance of it, unleſs we have as clear a command to the contrary: But we have a clear command to do this <hi>(that is to receive the Lords Supper
+<pb n="2" facs="tcp:118167:3"/>in remembrance of Chriſts death) and hereby to ſhew forth the Lords death till he come, &amp;c.</hi> No ſuch clear command to call us from it when there is a mixture of Unworthy ones: therefore we are bound not to forbear it. If there be any ſuch clear command to the contrary, let it be ſhewed. The Apoſtle, when he delivers the doctrine of the Sacrament, 1. <hi>Cor.</hi> 11 23. when he ſhews the danger of comming Unworthily, and calls upon men to Ex<g ref="char:EOLhyphen"/>amine themſelves before they come, <hi>v.</hi> 27.28. had fair occaſion likewiſe to have ſhewed the danger of joyning with others that came unworthily; yea it had been neceſſary for him to have done ſo, when there were ſome of the <hi>Corinthians</hi> that had diviſions and contentions among themſelves, <hi>v.</hi> 18. others that came drun<g ref="char:EOLhyphen"/>ken, to the ſacrament <hi>v.</hi> 21. others that deſpiſed the Church of God, <hi>v.</hi> 22. yet he doth no where charge them not to joyn with theſe, in the uſe of this Ordinance, but onely enjoynes every man to examine himſelf, and ſo to eat of the Bread, and drink of the Cup.</p>
+            <p>As for thoſe places that are alleged by ſome to ſhew the un<g ref="char:EOLhyphen"/>lawfulneſs of joining in mixt congregations, in anſwer to them afterwards, it ſhall be plainly demonſtrated, that all of them fall farre ſhort of holding forth any ſuch clear command for the For<g ref="char:EOLhyphen"/>bearance, as thoſe before-mentioned do for the Performance of the duty.</p>
+            <p>
+               <hi>Argu.</hi> 2. If it be unlawfull for a worthy receiver to joyn with thoſe that come unworthily, it is becauſe he doth ſome way com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unicate with them in their ſin.</p>
+            <p>But he that comes rightly prepared doth no way communi<g ref="char:EOLhyphen"/>cate with the ſin of the unprepared, ſo he may lawfully come.</p>
+            <p>If the worthy receiver doth communicate with the ſin of the unworthy, it is either becauſe he communicates with ſuch in the outward action, or in the inward affection.</p>
+            <p>For the inward affection he hath no communion with them that way at all; the affections of the unworthy and worthy being altogether of a differing nature. The one comes with a heart humbled for ſin; the other with a heart hardened in ſin: the one comes with a heart hungring after Chriſt and his righ<g ref="char:EOLhyphen"/>teouſneſs; the other without any ſenſe of the need of him, or any true deſire after him.</p>
+            <p>The one comes with a ſerious purpoſe to forſake all ſin: the o<g ref="char:EOLhyphen"/>ther with a purpoſe to continue in ſin, or at leaſt without any ſerious or ſetled reſolution to forſake all ſin.</p>
+            <pb n="3" facs="tcp:118167:3"/>
+            <p>For the outward action wherein both do communicate, that it is in it ſelf good, being the very thing which Chriſt himſelf re<g ref="char:EOLhyphen"/>quires, namely to receive ſacramentall Bread and Wine in remem<g ref="char:EOLhyphen"/>brance of his death and paſſion: and would be good in him that comes unworthily, if his inward affections were right. As the out<g ref="char:EOLhyphen"/>ward action of hearing the word, and joining in prayer, and cal<g ref="char:EOLhyphen"/>ling upon God, is good when done by a wicked man; ſo is the outward action of receiving the Sacrament: The evill that accom<g ref="char:EOLhyphen"/>panies theſe actions is want of doing them in a right manner.</p>
+            <p n="2">2. In all actuall ſins mans will is <hi>principium actionis,</hi> the principall cauſe of the act, how then can a man be guilty of that ſin which another man commits, wherin his wil hath no concurrence?</p>
+            <p n="3">3. If the worthy receiver ſhould be acceſſory to the ſin of the un<g ref="char:EOLhyphen"/>worthy, then the unworthy ſhould pollute the Ordinance of God, not only to himſelf, but to others: but this he doth not, for <hi>To the pure all things are pure, Tit.</hi> 1 15.</p>
+            <p>
+               <hi>Object.</hi> But is there nothing elſe required to free us from being acceſſory to the ſcandalous evills of ſuch as come unwor<g ref="char:EOLhyphen"/>thily to the ſacrament, but only ſelf-preparation?</p>
+            <p>
+               <hi>Anſw.</hi> Yet: It is our duty to admoniſh ſuch, if their ſcandals be known to us, and we have opportunity to do it, <hi>Mat.</hi> 18.15.</p>
+            <p n="2">2. If they regard not our private admonition, it is our duty to do it before one or two witneſſes, <hi>v.</hi> 16.</p>
+            <p n="3">3. If they, will not yet hear, it is our duty to acquaint the church<g ref="char:EOLhyphen"/>officers with it, if they be ſuch as are fit and willing to yeeld any help, <hi>v.</hi> 17.</p>
+            <p n="4">4. If by none of theſe meanes unworthy ones can be kept back, it is our duty to mourn and be humbled before God, earneſtly ſeeking for redreſs of this evil, 1 <hi>Cor.</hi> 5.2. If we have uſed our beſt endeavour for performance of theſe things, we ſhal not be involved in the guilt of ſuch as come unworthily to the ſacrament.</p>
+            <p>
+               <hi>Arg.</hi> 3. If be it unlawfull to receive the Sacrament with thoſe who come unworthily; then it is unlawfull to do this with any ſuch, or with thoſe whom we know to be ſuch: if with any ſuch, then we muſt not join in receiving with thoſe Hypocrites, from whom ſcarce any congregation is free.</p>
+            <p>If it be unlawfull only to receive with thoſe whom we know to be ſuch, then our Saviour would not have joyned with <hi>Judas</hi> (whom he knew to be a thief and a traytor) in eating the Paſsover
+<pb n="6" facs="tcp:118167:4"/>(for that was a ſacrament of the ſame nature, and ſerving to the ſame end, with this of the Lords Supper.)</p>
+            <p>
+               <hi>Ob Chriſt</hi> knew <hi>Judas</hi> to be ſuch an one, by his divine know<g ref="char:EOLhyphen"/>ledge; as he was God only, and not as he was Man.</p>
+            <p>
+               <hi>Anſ.</hi> By what knowledge ſoever he knew him to be ſuch, yet if by his preſence he had polluted the Ordinance, not only to him<g ref="char:EOLhyphen"/>ſelf, but to others, he would not have permitted him to joyn in it: for there was no care wanting in him to preſerve the purity of Gods ordinances.</p>
+            <p n="2">2. Though the other Diſciples knew not that <hi>Iudas</hi> was a Tray<g ref="char:EOLhyphen"/>tor before they came to eat the Paſsover, yet in the time of eating it they knew it: for <hi>John</hi> having asked <hi>Chriſt</hi> who it was that ſhould betray him, he anſwered, <hi>he it is to whom I ſhall give a ſopp when I have dipped it, and having dipped the ſopp, he gave it unto Judas. Iohn</hi> 11.25, 26.</p>
+            <p n="3">3. If my knowledge of another mans Unworthineſs ſhould hinder me from joyning with him, then when I know and am convinced of the unworthineſs of any that comes, though his ſin be ſuch as will not call for a Church-cenſure, yet I muſt forbear: or if it be of a ſcandalous nature (though I have neither time nor opportunity of acquainting the Church with it, ſo as he may be kept back) yet I am debarred from comming.</p>
+            <p>Suppoſe a Chriſtian intending to receive the ſacrament, ſhould have certain knowledge of his neighbours drunkenneſs or un<g ref="char:EOLhyphen"/>cleaneſs the night or morning before he were to come (ſo as he had no opportunity either of admoniſhing him or acquainting the Church with it) is he therefore bound to deprive himſelf of the benefit of partaking of the ſacrament, becauſe another comes vvhom he knowes to be unworthy: doth his bare knowledge of another mans ſin involve him in the guilt of it?</p>
+            <p>It is not in the power of any private perſon to keep away ſuch as are unworthy, if therfore he ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l do that which belongs to him (namely admoniſh them, or acquaint the Church Officers with it having opportunitie, or be humbled &amp; mourn for it if no good can be done) he acquits himſelf of the guilt of ſuch as come unwor<g ref="char:EOLhyphen"/>thily. His Sin is not, the joyning with ſuch in receiving the ſacra<g ref="char:EOLhyphen"/>ment, but the not performing of thoſe other dutyes which God re<g ref="char:EOLhyphen"/>quires of him.</p>
+            <pb n="7" facs="tcp:118167:4"/>
+            <p>
+               <hi>Arg.</hi> 4. If the preſence of wicked men doth pollute the ſacrament to thoſe that joyn with them in receiving it, then it doth pollute other Ordinances alſo to thoſe that joyn with them in partaking of them, and ſo it ſhould be unlawfull to hear the word, and call upon the name of God in thoſe Congregations where wicked men are preſent.</p>
+            <p>The reaſon is, becauſe we have externall communion with them in theſe actions of worſhip, as well as receiving the ſacrament: and in none of theſe we have any internall communion at all with them, but the outward actions being good, it cannot be evill to have communion with them in theſe (as hath been ſhewed.)</p>
+            <p>
+               <hi>Oh.</hi> But in the uſe of the ſacraments there is a nearer and higher degree of communion than in other ordinances, theſe be<g ref="char:EOLhyphen"/>ing the neareſt and ſtrongeſt bonds of union and communion.</p>
+            <p>
+               <hi>Anſ: Gradus non variat ſpeciem.</hi> This is ſtill but a communion of the ſame kind and nature, namely externall: and ſo we have but a greater degree of outward communion, no inward at all, and if it be ſinfull to have communion with them in the outward acti<g ref="char:EOLhyphen"/>on in this Ordinance, it is likewiſe ſinfull (though not ſo great a ſin) to communicate with them in the outward act in other ordinances.</p>
+            <p>Can we think that <hi>Hezekiah</hi> and <hi>Joſiah</hi> ſhould have been ſo much commended for celebrating thoſe famous Paſſovers in their time, wherein there was ſuch a mixture of many who were not clenſed according to the purification of the ſanctuary, 2 <hi>Chron.</hi> 30.19. when <hi>Judah</hi> was univerſally corrupted with falſe prieſthood, ido<g ref="char:EOLhyphen"/>latry, images, groves, &amp;c. if this mixture had polluted the worſhip to the people of God who came rightly prepared to the exerciſe of it? yea, can we think that when ſome amongſt the <hi>Corinthians</hi> cauſed ſchiſmes and contentions, ſome that went to law with their brethren before heathen judges, ſome that did eat and drink with infidels at the tables of idols, ſome that denied the doctrine of the Reſurrection, ſome that came diſtempered to the Lords Supper, that the Apoſtle would not have given direct charge to the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> to have ſeparated from theſe in receiving the Sacrament, if their preſence had polluted the Ordinance to all the reſt?</p>
+            <p>Can we think that the Lord would have ſuffered idolaters, for<g ref="char:EOLhyphen"/>nicators, tempters of Chriſt, murmurers to have eaten the ſame ſpirituall meat, and drink the ſame ſpirituall drink with his peo<g ref="char:EOLhyphen"/>ple
+<pb n="6" facs="tcp:118167:5"/>in the wilderneſs, if they bad defiled theſe things not only to themſelves but to others?</p>
+            <p>
+               <hi>Arg.</hi> 5. If the preſence of wicked men doth pollute the Sacra<g ref="char:EOLhyphen"/>ment to thoſe who come rightly prepared, then the efficacy, be<g ref="char:EOLhyphen"/>nefit, fruit and comfort of Gods ordinances ſhould depend not only upon his inſtitution, bleſſing, the influence of his Spirit, and right qualification of thoſe who partake of them, but alſo upon the qualification and diſpoſition of all thoſe who join with them in the uſe of them: which would make the people of God be upon great uncertainties, when they ſhould receive benefit by his Ordinances, and bereave them of a great part of that com<g ref="char:EOLhyphen"/>fort which they ſhould reap by them, becauſe they ſhould alway be in ſuſpence whether ſome unworthy ones did not join with them in the uſe of them: yea it would as it were confine the com<g ref="char:EOLhyphen"/>fort and vertue of them to the qualities and tempers of men.</p>
+            <p>We have a ſure word that tells us, that every one who doth examine himſelf a right, may come and eat of that Bread, and drink of that Cup: and in doing ſo he ſhall <hi>eat the body, and drink the blood of Chriſt,</hi> that is, be made partaker of the benefit or Chriſts death and ſuffering; and this is that which muſt be the ground of our comfort in comming to the Sacrament, and of our aſſurance that we ſhall receive good by it, and not the conſideration of the quality and condition of thoſe that ioyn with us in receiving; leſt hereby we do in part ſuſpend the power of Gods ordinance upon the worthineſs of men.</p>
+            <p>
+               <hi>Ob.</hi> But we ought to partake of pure Ordinances.</p>
+            <p>
+               <hi>Anſ.</hi> So we may, though ſome impure ones join with us in the uſe of them. We ought to account the ordinances pure, if for the ſubſtance of them they be adminiſtred according to the pure &amp; ho<g ref="char:EOLhyphen"/>ly rule of the word. As in the hearing of the word we may be ſaid to partak of a pure ordinance, if pure &amp; ſound doctrine be taught, if there be ſuch an explication &amp; application of the Scripture, as is agreeable to the mind of the Spirit ſpeaking in Scripture, though ſome ioin with us in hearing whoſe hearts are like to the high<g ref="char:EOLhyphen"/>way ſide, or the ſtony ground, or thorny ground: ſo in receiving the Sacrament we may be ſaid to partake of a pure ordinance, if comming rightly prepared it be adminiſtred unto us for matter and manner according to Chriſts inſtitution, if there be the ſame outward elements, if theſe be bleſſed and conſecrated by ſuch
+<pb n="7" facs="tcp:118167:5"/>words of Scripture, ſuch holy prayers and ſupplications, as Chriſt hath appointed, if it be adminiſtred to ſuch as have received the ſeal of Baptiſm, make outward profeſſion of Chriſtianity, though there be ſome amongſt them whoſe lives and converſations be not anſwerable to this profeſſion.</p>
+            <p>
+               <hi>Ob.</hi> But if ſcandalous perſons comming to the Sacrament do not pollute the Ordinance, then they need not be kept away: then what uſe of Church Diſcipline?</p>
+            <p>
+               <hi>Anſ.</hi> Though they do not pollute it to others, they pollute it to themſelves, and their preſence is offenſive to others (eſpecially to weak ones) who are grieved and troubled at it; therefore they ought to be kept away. But though this ought to be done, yet it muſt be done in an orderly way, and by thoſe to whom God hath committed the power of exerciſing Church cenſures: which not being committed into the hands of every private Chriſtian (at leaſt any ſingle perſon) ſuch may lawfully come to the Sacraments, though unworthie ones be not kept a way: and if he comes rightly prepared, may come with aſſurance of receiving benefit by it, when for matter and manner it is adminiſtred according to Chriſts inſtitution.</p>
+            <p>Now it followes that anſwer be given to ſuch Scriptures and Reaſons as are brought by ſome to prove the unlawfulneſs of re<g ref="char:EOLhyphen"/>ceiving the Sacrament in mixt Congregrtions.</p>
+            <p>
+               <hi>Ob.</hi> 1.1. <hi>Cor.</hi> 10.17. <hi>We that are many are one bread and one body, be<g ref="char:EOLhyphen"/>caueſ we are all partakers of one bread.</hi> Hence this argument is ga<g ref="char:EOLhyphen"/>thered.</p>
+            <p>It is unlawfull for us to make ourſelves one Body with wicked men: But by partaking of the ſame bread with them we make our ſelves one Body with them, for the Apoſtle ſaith, that we are all one Body, becauſe we partake of one Bread.</p>
+            <p>
+               <hi>Anſ.</hi> This place doth not prove that all who partake of one bread, are thereby made one body, but only the faithfull true be<g ref="char:EOLhyphen"/>leevers, ſuch as receive in the right manner, for the Apoſt. doth not ſay all that partake of one bread, but we that are many are one body, becauſe we all partake of one bread, meaning himſelf, and o<g ref="char:EOLhyphen"/>thers that were like himſelfe, namely true beleevers. And that this muſt needs be the meaning, appeares by theſe reaſons.</p>
+            <p n="1">1. The ſame <hi>(Wee)</hi> muſt be here meant which was ſpoken of in the former verſe where he ſaith, The bread which we eat, is the communion of the body of Chriſt: now wicked men have no ſpi<g ref="char:EOLhyphen"/>rituall
+<pb n="8" facs="tcp:118167:6"/>communion with the body of Chriſt, but only the faythfull: Neither have they any further communion with the faithfull, than they have with Chriſt, namely a communion only externall, there<g ref="char:EOLhyphen"/>fore they are not made one body with them.</p>
+            <p n="2">2. The one body which the Apoſt. ſpeakes of in this verſe is the myſticall body, that body whereof Chriſt is the head, of which bo<g ref="char:EOLhyphen"/>dy wicked men are no parts.</p>
+            <p n="3">3. All thoſe who are united together as parts of this body, par<g ref="char:EOLhyphen"/>take of one and the ſame Spirit, which is the bond of this Union. <hi>There is one body and one Spirit. Eph.</hi> 4.4. But wicked men do not partake of the ſame Spirit with the faitfull (this being the Spirit of adoption and ſanctification, appropriated only to the ſones of God, <hi>Gal.</hi> 4.6.) therefore they can have no ſpirituall or internall communion with them; An externall they may have, and ſuch have all hypocrites, with Chriſt himſelf, when they receive the ſacrament, for they partake of that bread and wine which are ſignes of the body and blood of Chriſt, and therefore have ſacra<g ref="char:EOLhyphen"/>mentall relation to him.</p>
+            <p>
+               <hi>Ob.</hi> 2. A principall place is that of the Apoſt. 1. <hi>Cor.</hi> 5.11. <hi>If any that is called a brother be a fornicator, &amp;c. with ſuch an one eat not;</hi> this is brought to prove that we muſt not join with ſcandalous perſons in receiving the ſacrament, becauſe then we muſt eat with them.</p>
+            <p n="1">
+               <hi>Anſ.</hi> 1. This cannot be underſtood of all kind of eating, for then we muſt never eat with them at ordinaries, at great mens tables, or any places of publique meetings, which cannot poſſibly beavoided.</p>
+            <p n="2">2 This eating in ſcripture-phraſe uſually ſignifies freindly ſo<g ref="char:EOLhyphen"/>cice and familiarity. Thus the Pſalmiſt ſaith, <hi>My familiar friend in whom I truſted which did eat of my bread, &amp;c. Pſal.</hi> 41.6.</p>
+            <p>And this our Saviour applies to <hi>Judas,</hi> whom he had choſen to be one of his diſciples, and with whom he had dayly familarity, <hi>Job.</hi> 13.18. thus <hi>David</hi> adviſeth <hi>Salomon,</hi> that the ſons of <hi>Barzillai</hi> ſhould be amongſt them that did eat bread at his table, that is, a<g ref="char:EOLhyphen"/>mong the number of his familiar friends, becauſe they came to meet him when he fled from <hi>Abſolon.</hi> 1. <hi>King.</hi> 2.7. thus it is ſaid, that <hi>many ſhall come from the Eaſt and Weſt, and ſit at table with Abra<g ref="char:EOLhyphen"/>ham, Iſaack and Jacob in the Kingdom of God,</hi> that is, ſhall have neareſt familiarity with them. <hi>Luk.</hi> 13.28, 29.</p>
+            <p n="3">3. That in this place, eating muſt be ſo, underſtood, appeares, be<g ref="char:EOLhyphen"/>cauſe eating mentioned in this place is the ſame with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>v.</hi> 9, keeping company, or being mingled with them, which muſt
+<pb n="9" facs="tcp:118167:6"/>needs be underſtood of familiar ſociety, becauſe he ads in the next verſe, that if we will not keep company at all with ſuch, we muſt go out of the world.</p>
+            <p>
+               <hi>Ob.</hi> But the argument is further carryed on and thus urged; if we muſt have no civill ſociety and familiarity with wicked, much leſs muſt we have religious ſociety with them, which is the nea<g ref="char:EOLhyphen"/>reſt and moſt intimate of all.</p>
+            <p>
+               <hi>Anſ.</hi> This argument followes not; for the caſe is altogether unlike, as appeareth in theſe two particulars.</p>
+            <p n="1">1. Religious ſociety is indeed the neareſt and moſt intimate of all, betwixt thoſe who are truly religious, but not ſo betwixt them and wicked men in religious duties, though they join in the ſame outward action yet they have no inward ſociety or communion with them, there is no mingling of affections with them, as it is with thoſe who join in civill ſociety and familiarity; yea their affections are altogether diſagreeing one from another (as hath been ſhewed) and their ſociety meerly externall; they have no o<g ref="char:EOLhyphen"/>ther kind of communion with them, than wicked have with Chriſt, when they partake of the outward ſignes of his body and blood.</p>
+            <p n="2">2. Civill ſociety is elective and voluntary, in a mans own free choyſe; but this in receiving the ſacrament is not ſuch, for it is a neceſſary duty to receive the ſacrament, this is injoyned as a ne<g ref="char:EOLhyphen"/>ceſſary meanes to keep a thankfull memoriall of Chriſts death. As it is neceſſary to hear the word and to pray, ſo it is neceſſary to receive the ſacrament; we have a command to do this, and muſt not neglect it; And when wicked men do thruſt themſelvs in, and joyn with us in the action, it is altogether contrary to our minds &amp; wills. A man hath liberty to chooſe thoſe companions whom he will familiarly converſe withall, but many times he hath not li<g ref="char:EOLhyphen"/>berty to chooſe his own company in receiving the ſacrament: ſo that this differs from civill ſociety both in regard of intimacy and liberty, which that is accompanyed withall, but this not ſo.</p>
+            <p>
+               <hi>Ob.</hi> 1. <hi>Cor.</hi> 5.6. <hi>A little leaven leaveneth the whole lump.</hi> Hence it is gathered, that we ſhall be infected with the guilt of wicked men, if we join with them in receiving of the ſacrament, becauſe in that action we make our ſelves one lump with them.</p>
+            <p>
+               <hi>Anſ.</hi> The Apoſtle directs this ſpeech, not to any particular Chriſtian, but to the whole Church of <hi>Corinth,</hi> and his ſcope is not to call off any Chriſtian from receiving the Sacrament, though ſome unworthy ones did joyn in the action, but to ſtirr
+<pb n="10" facs="tcp:118167:7"/>up the Church of <hi>Corinth</hi> to exerciſe the Church cenſure againſt the inceſtuous <hi>Corinthain</hi> by ſhewing the danger which his ex<g ref="char:EOLhyphen"/>ample and company might bring to others if he went unpuniſhed, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amely, embolden them to the committing of the ſame or other like ſins: or if this ſin went uncenſured, it might involve the whole congregation in the guilt of it, becauſe they did not what they might and what they ought to do againſt it.</p>
+            <p n="2">2. The argument which the Apoſtle here uſeth is a ſimilitude, now ſimilitudes do not hold in all things, and therefore muſt not be ſtretched beyond their due bounds. Leaven is a naturall cauſe of ſouring the lump, and therefore works certainly and conſtantly if no hindrance comes in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he way. Scandalous ſins are not naturall but morall cauſes of infection, and therefore work not neceſſarily but contingently, namely where there is a fit diſpoſition to receive their impreſſion. There is a diſpoſition in ſome or other in a congregation fit to receive infection from the example of a ſcandalous ſinner that goes uncenſured, and a readineſs to be emboldned by it: but there is no ſuch danger in a worthy receiver to receive infection, becauſe he is of another qua<g ref="char:EOLhyphen"/>lity and diſpoſition: and this example doth not incourage ſuch an one to ill, but rather afflict and grieve him.</p>
+            <p>The Goſpel is compared to leaven <hi>Mat.</hi> 13. and it is a morall cauſe of conveying its ſweetneſs, namely of working ſaving grace in the hearts of the hearers, but it doth not this in all, or the grea<g ref="char:EOLhyphen"/>teſt part, but only in thoſe, whoſe hearts God is pleaſed to fit and diſpoſe for the right receiving of it.</p>
+            <p n="3">3. As ſcandalous ſins are leaven, ſo is hypocriſy. Our Saviour bids his Diſciples <hi>take heed of the leaven of the Phariſes which is hy<g ref="char:EOLhyphen"/>pocriſy. Luk.</hi> 12.1. if therefore the whole lump (the whole congrega<g ref="char:EOLhyphen"/>tion) muſt needs be leavened by the preſence of ſome wicked men, it muſt be leavend by the hypocriſy of others, and ſo we ſhall be free in no Congregation. All therefore that this place proves, is, that it is the duty of every Church and Congregation, to uſe the beſt meanes they are able that ſcandalous ſinners may bee cenſu<g ref="char:EOLhyphen"/>red, leſt their example and preſence prove hurtfull to others, but it proves not that it is unlawfull to joyn with others in the uſe of Gods ordinances, in ſuch actions as are in themſelves good, and which God requires.</p>
+            <p>
+               <hi>Ob.</hi> 4.2. <hi>Cor.</hi> 6.14, 15. <hi>What fellowſhip hath righteouſneſs with un<g ref="char:EOLhyphen"/>righteouſneſs, hath light with darkneſs? &amp;c.</hi> ſo we muſt not communi<g ref="char:EOLhyphen"/>cate with wicked men.</p>
+            <pb n="11" facs="tcp:118167:7"/>
+            <p>
+               <hi>Anſ.</hi> The thing which the Apoſtle here condemns in the <hi>Co<g ref="char:EOLhyphen"/>rinthians,</hi> is the having fellowſhip with idolaters at feaſts in their Idoll Temples, eating thoſe things which had been ſanctified to Idols; or joyning with heathens and infidels in mariage ſociety. Now what a wide, and far-fetcht conſequence is this? Chriſtians muſt not haue fellowſhip with Idolaters and heathens at their idol tables, they muſt have no mariage ſociety with them (which is the neareſt ſociety of all) therefore they muſt not have ſociety with ſuch as profeſs Chriſtianity in the uſe of the Sacraments; we muſt have no fellowſhip with wicked men in the wicked works of darkneſs, will it follow therefore that we muſt have no fellowſhip with good men in good actions, becauſe ſome wicked ones are mixed amongſt them? may we not joyn with wicked men in the uſe of Gods ordinances, as hearing the word, prayer? &amp;c. (for if this argument hath any force, it reacheth to other ordinances as well as the Sacrament, to exclude us from having felllowſhip with them in my of them) for what fellowſhip hath righteouſneſs?</p>
+            <p>
+               <hi>Ob.</hi> 5. <hi>Come out from among them, and touch no unclean things,</hi> 2. <hi>Cor.</hi> 6.17. <hi>Go out of her my people that you be not partakers of her ſins, Rev.</hi> 18 4. Hence ſome collect, that we muſt come out from thoſe con<g ref="char:EOLhyphen"/>gregations where wicked men are admitted.</p>
+            <p>
+               <hi>Anſ.</hi> Theſe collections are as wide and weak as the former, we muſt touch no unclean thing, we muſt joyn with no wicked men in wicked actions, doth it therefore follow that we muſt not joyn with them in good actions? we muſt come out from <hi>Babell</hi> which is the mother of fornications, which tea<g ref="char:EOLhyphen"/>cheth the doctrine of Devils, which practiſeth all manner of ido<g ref="char:EOLhyphen"/>latrous worſhip, which makes herſelf drunk with the blood of the Saints, doth it therefore follow that we muſt come out from Chriſtian congregations, where the word is purely and ſoundly taught, and the ſacraments (for the ſubſtance of them) admini<g ref="char:EOLhyphen"/>ſtred according to Chriſts inſtitution.</p>
+            <p n="4">4. He that bade his people come out of <hi>Babel,</hi> bade them not come out of <hi>Pergamy</hi> and <hi>Thyatira,</hi> where there were as great corruption tollerated (if not greater) than are to be found in many of our Con<g ref="char:EOLhyphen"/>gregations. We may wonder that ſuch as ſeem not to own ſepara<g ref="char:EOLhyphen"/>tiſts &amp; their way, ſhould yet plow, with their heyfer, bringing the very ſame Scripture, and applying them the very ſame way, and to the very ſame ends that they have done, when as ſatisfying anſwers have been given to theſe long ſince by many worthy men: and
+<pb n="12" facs="tcp:118167:8"/>that myſt of darkneſs which ſome ſought to rayſe from them, hath been ſo fully diſpelled &amp; ſcattered, and that again and again.</p>
+            <p>To conclude, let every ſober-minded Chiriſtian ſeriouſly con<g ref="char:EOLhyphen"/>ſider whether this ſeparating from the Sacraments in all our con<g ref="char:EOLhyphen"/>gregations, do not open a direct way to the infringing &amp; violating thoſe great Goſpell-rules whereby we are tyed to the preſerving of the unity of the Spirit in the bond of peace, and maintaining Chriſtian love and fellowſhip one with another, (which the ſcrip<g ref="char:EOLhyphen"/>ture holds forth ten times more clearly, than it doth any point of purity aimed at by this ſeparation) We are called upon again &amp; again to the preſerving of love, <hi>Above all things put o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love, which is the bond of perfection, Col.</hi> 3.14. <hi>Above all things have fervent love a<g ref="char:EOLhyphen"/>mong you,</hi> 1. <hi>Pet.</hi> 4.8. this is made the character whereby Chriſts true diſciples are diſtinguiſhed from others, <hi>John.</hi> 13.35. and the note whereby we know that we are tranſlated from death to life, namely if we love the brethren, 1.<hi>Ioh.</hi> 3.14. But where are we bid<g ref="char:EOLhyphen"/>den above all things to take heed that we receive not the Sacra<g ref="char:EOLhyphen"/>ment in mixt congregations? we are charged in the name <hi>of the Lord Jeſus Chriſt that there ſhould be no diviſions</hi> or ſchiſmes (as the originall is) <hi>amongſt us,</hi> 1. <hi>Cor.</hi> 1.10. But where are we charged in the name of the Lord Jeſus not to join with any unworthy ones in receiving the Sacrament? why ſhould we let go a certainty for an uncertainty? a certain unity, for ſome doubtfull degrees of pu<g ref="char:EOLhyphen"/>rity? for ſuch things as (if they be required of us at all, yet) are not urged upon us with half that clearneſs and ſtrength of ſcripture as the other are. Though Chriſt come to ſet a difference betwixt his own and the world (even ſuch as were tyed together by nea<g ref="char:EOLhyphen"/>reſt outward relations, as father and ſonne, &amp;c.) yet he came not to ſet a difference betwixt his own and his own, betwixt the living members of his body: for theſe he prayes that <hi>they may be one as be and the father are one, Joh.</hi> 17.21. theſe he gives in charge <hi>that they love one another, John</hi> 15.17. And theſe commands are joined toge<g ref="char:EOLhyphen"/>ther, as things of like neceſſity and validity, namely <hi>that we beleeve on the ſonne, and love one another.</hi> 1. <hi>Ioh.</hi> 3.23. Love is the bond of uni<g ref="char:EOLhyphen"/>on and communion betwixt all the members of the body. How great a breach hath been made in this bond, by this branch of ſeparation (namely ſeparating from the ſacrament) dayly experi<g ref="char:EOLhyphen"/>ence too ſadly ſhewes. How can this bond continue firm, when there is a continued withdrawing from thoſe actions wherein
+<pb n="13" facs="tcp:118167:8"/>Chriſtian union and communion doth principally conſiſt, and whereby Chriſtian love is principally preſerved?</p>
+            <p>What is that diviſion or ſchiſm which the Apoſtle doth ſo earneſtly dehort from, 1. <hi>Cor.</hi> 1.10. but a groundleſs ſeparation from a true Church? And is not this a great degree of ſuch a ſepa<g ref="char:EOLhyphen"/>ration when we ſeparate our ſelves from them in thoſe actions which are the greateſt bonds of union, and ſtrongeſt meanes of ſpirituall communion? Heathens are allowed to join with Chriſti<g ref="char:EOLhyphen"/>ans in other ordinances (as hearing the word, and prayer) but not ſo in the uſe of the ſacraments, becauſe they are not looked at as members of the ſame body: if therefore we will joyn with the members of Jeſus Chriſt only in the uſe of the other ordinances, but uot in the uſe of the ſacraments, what privilege do we allow them this vvay, or part of ſpirituall communion vvith us, more than heathens are allowed? The Apoſtle chargeth the Corinthi<g ref="char:EOLhyphen"/>ans vvith ſchiſm, becauſe they vvere partially addicted to their teachers, one holding of <hi>Paul,</hi> another of <hi>Apollo,</hi> another of <hi>Cephes,</hi> 1. <hi>Cor.</hi> 1.12. compared vvith 10. yet they did not ſeparate them<g ref="char:EOLhyphen"/>ſelves one from another in hearing the vvord, or receiving the ſacraments: if therefore vve practiſe ſeparation theſe vvayes, hovv can vve acquit our ſelves from a great degree of that ſchiſm vvhich he there condemns?</p>
+            <p>Many of our Congregations are not denyed to be true chur<g ref="char:EOLhyphen"/>ches even by ſuch as vvithdravv from our ſacraments: if any ſhould be doubtfull this vvay, they may receive ſatiſfaction from ſcrip<g ref="char:EOLhyphen"/>ture-grouuds, vvhich therefore may be briefly mentioned.</p>
+            <p n="1">1. That is a true church vvhich is built <hi>upon the foundation of the Prophets and Apoſtles</hi> (namely the doctrine of the Prophets and Apoſtles) <hi>Ieſus Chriſt being the chief corner ſtone, Eph.</hi> 2.19, 20. that divers of our congregations are ſo, it cannot be denyed.</p>
+            <p n="2">2. That is a true church vvhich is <hi>the pillar and ſeat of truth,</hi> 1: <hi>Tim.</hi> 3.15. that it, to which the truth is as it vvere faſtened, and by vvhich it is held forth in a conſtant continued manner, (As the lavves of a kingdome vvere vvont to be faſtned to pillars, and by them to be held forth to the veivv of all) and ſo it is in many of our congregations.</p>
+            <p n="3">3. That is a true church vvhere ſalvation is to be had: namely by the uſe of thoſe ordinances which are there ſetled, and in a conſtant courſe adminiſtred. Thus our Saviour proves the Church of the Jews to be a true Church, namely ſalvation was of the <hi>Iews,
+<pb n="14" facs="tcp:118167:9"/>Io.</hi> 4.22. It was to be had in an ordinary courſe by thoſe meanes that were planted among them: though all things were then ex<g ref="char:EOLhyphen"/>tremely corrupted.</p>
+            <p n="4">4. Thoſe are true Mothers which bring forth true legitimate children to their husbands: ſuch do ſome of our Congregations daily bring forth unto Chriſt. Divers of thoſe who do now with<g ref="char:EOLhyphen"/>draw from us will not deny themſelves to be truly begotten and brought forth unto Chriſt in our Congregations.</p>
+            <p>Suppoſe thoſe Logicall notions about the matter and form of a Church (which ſome much inſiſt upon) will not exactly agree to many of our Congregations (if taken in a ſtrict ſenſe) yet if there may be found in them all the eſſentialls of a true Church, namely thoſe great ordinances of ſound and ſaving preaching of the Word, and Sacraments adminiſtred according to Chriſts inſtitution (for their ſubſtance) in a ſetled way, and a conſiderable number of per<g ref="char:EOLhyphen"/>ſons ſubmitting themſelves really to thoſe ordinances, and others alſo in outward profeſſion; they cannot be denyed to be the true Churches of Chriſt though defective in ſome things that make much for the well-being though not neceſſary for the eſſence or being of a Church.</p>
+            <p>Now if divers of our Congregations be the true churches of Chriſt, every true Chriſtian ſhould think how dangerous a thing it is to make a ſchiſme in the body by ſeparating from them, and therefore not dare to do this without ſtrong and evident grounds of Scripture leading thereto, ſince there are ſo ſtrong grounds to the contrary, the light of which ſhine forth as Clearly as the light of the ſun at noon tide in a bright Sun-ſhine day.</p>
+            <p>If nothing be allovved in our Congregations deſtructive to the being of a true Church; If nothing be vvanting in them eſſentiall to the nature of a true Church (the oracles and ordinances of God being fixed and ſetled in them, and there being a fixed fellovvſhip in partaking of them (for the ſubſtance) according to Chriſts inſti<g ref="char:EOLhyphen"/>tution) let every conſcientious Chriſtian ſeriouſly conſider vvhe<g ref="char:EOLhyphen"/>ther he doth not more violate Ghoſpel-rules by ſeparating to make ſchiſmes and breaches in the church of God, than by a lo<g ref="char:EOLhyphen"/>ving and peaceable joyning with his brethren in partaking of theſe ordinances to preſerve unity and peace, without which the Church of God cannot long ſubſiſt, or have any being at all.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
